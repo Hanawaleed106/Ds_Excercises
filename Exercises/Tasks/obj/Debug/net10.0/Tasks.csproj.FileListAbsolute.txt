@@ -1,0 +1,14 @@
+C:\Users\hp\Documents\C#\Exercises\Tasks\bin\Debug\net10.0\Tasks.exe
+C:\Users\hp\Documents\C#\Exercises\Tasks\bin\Debug\net10.0\Tasks.deps.json
+C:\Users\hp\Documents\C#\Exercises\Tasks\bin\Debug\net10.0\Tasks.runtimeconfig.json
+C:\Users\hp\Documents\C#\Exercises\Tasks\bin\Debug\net10.0\Tasks.dll
+C:\Users\hp\Documents\C#\Exercises\Tasks\bin\Debug\net10.0\Tasks.pdb
+C:\Users\hp\Documents\C#\Exercises\Tasks\obj\Debug\net10.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\C#\Exercises\Tasks\obj\Debug\net10.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\C#\Exercises\Tasks\obj\Debug\net10.0\Tasks.AssemblyInfo.cs
+C:\Users\hp\Documents\C#\Exercises\Tasks\obj\Debug\net10.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\C#\Exercises\Tasks\obj\Debug\net10.0\Tasks.dll
+C:\Users\hp\Documents\C#\Exercises\Tasks\obj\Debug\net10.0\refint\Tasks.dll
+C:\Users\hp\Documents\C#\Exercises\Tasks\obj\Debug\net10.0\Tasks.pdb
+C:\Users\hp\Documents\C#\Exercises\Tasks\obj\Debug\net10.0\Tasks.genruntimeconfig.cache
+C:\Users\hp\Documents\C#\Exercises\Tasks\obj\Debug\net10.0\ref\Tasks.dll
