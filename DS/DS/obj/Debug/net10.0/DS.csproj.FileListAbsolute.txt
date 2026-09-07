@@ -1,0 +1,14 @@
+C:\Users\hp\Documents\C#\DS\DS\obj\Debug\net10.0\DS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\C#\DS\DS\obj\Debug\net10.0\DS.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\C#\DS\DS\obj\Debug\net10.0\DS.AssemblyInfo.cs
+C:\Users\hp\Documents\C#\DS\DS\obj\Debug\net10.0\DS.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\C#\DS\DS\bin\Debug\net10.0\DS.exe
+C:\Users\hp\Documents\C#\DS\DS\bin\Debug\net10.0\DS.deps.json
+C:\Users\hp\Documents\C#\DS\DS\bin\Debug\net10.0\DS.runtimeconfig.json
+C:\Users\hp\Documents\C#\DS\DS\bin\Debug\net10.0\DS.dll
+C:\Users\hp\Documents\C#\DS\DS\bin\Debug\net10.0\DS.pdb
+C:\Users\hp\Documents\C#\DS\DS\obj\Debug\net10.0\DS.dll
+C:\Users\hp\Documents\C#\DS\DS\obj\Debug\net10.0\refint\DS.dll
+C:\Users\hp\Documents\C#\DS\DS\obj\Debug\net10.0\DS.pdb
+C:\Users\hp\Documents\C#\DS\DS\obj\Debug\net10.0\DS.genruntimeconfig.cache
+C:\Users\hp\Documents\C#\DS\DS\obj\Debug\net10.0\ref\DS.dll
